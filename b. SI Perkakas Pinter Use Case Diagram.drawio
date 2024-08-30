@@ -23,7 +23,7 @@
           <mxGeometry x="350" y="450" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-9" value="kelola data&lt;div&gt;admin kebun&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="120" height="50" as="geometry" />
+          <mxGeometry x="350" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-10" value="pengunjung/masyarakat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="420" width="20" height="40" as="geometry" />
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-21" value="kelola info&lt;div&gt;dashboard&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="30" width="120" height="50" as="geometry" />
+          <mxGeometry x="350" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vww5mRkP5KJjSzzlBmqT-1" target="vww5mRkP5KJjSzzlBmqT-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -68,13 +68,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-23" value="kelola data&lt;div&gt;bibit&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="170" width="120" height="50" as="geometry" />
+          <mxGeometry x="210" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-24" value="login&lt;div&gt;admin kantor&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="320" width="120" height="50" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vww5mRkP5KJjSzzlBmqT-8" target="vww5mRkP5KJjSzzlBmqT-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -94,17 +94,17 @@
             <mxPoint x="120" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vww5mRkP5KJjSzzlBmqT-29" value="penambahan&lt;div&gt;bibit&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="120" height="50" as="geometry" />
+        <mxCell id="vww5mRkP5KJjSzzlBmqT-29" value="penambahan&lt;div&gt;stok&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;bibit&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vww5mRkP5KJjSzzlBmqT-30" value="pengurangan&lt;div&gt;bibit&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vww5mRkP5KJjSzzlBmqT-30" value="pengurangan&amp;nbsp;&lt;div&gt;stok&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;bibit&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-31" value="update kondisi&lt;div&gt;kebun&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="690" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-33" value="view info&lt;div&gt;kebun/benih&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="120" height="50" as="geometry" />
+          <mxGeometry x="350" y="530" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vww5mRkP5KJjSzzlBmqT-10" target="vww5mRkP5KJjSzzlBmqT-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -128,6 +128,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="460" as="sourcePoint" />
             <mxPoint x="370" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vww5mRkP5KJjSzzlBmqT-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="vww5mRkP5KJjSzzlBmqT-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323" y="233" as="sourcePoint" />
+            <mxPoint x="420" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
