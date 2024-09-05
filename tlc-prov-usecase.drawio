@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="fMkuBY3DzN7pvkopR0qA">
-    <mxGraphModel dx="245" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="376" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bJwC49n2kLytIpeOi1GN-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="bJwC49n2kLytIpeOi1GN-2" value="" style="swimlane;startSize=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="630" height="510" as="geometry">
             <mxRectangle x="180" y="160" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -103,7 +103,7 @@
         <mxCell id="bJwC49n2kLytIpeOi1GN-58" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
           <mxGeometry x="208" y="412" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="bJwC49n2kLytIpeOi1GN-94" value="Web Application&amp;nbsp;&lt;div&gt;Realtime Monitoring and Controlling Traffic Light&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
+        <mxCell id="bJwC49n2kLytIpeOi1GN-94" value="Web Application&amp;nbsp;&lt;div&gt;Realtime Monitoring and Controlling Traffic Light&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;perimeterSpacing=0;strokeWidth=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
           <mxGeometry x="101" y="6" width="292" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-95" value="monitoring via&lt;div&gt;google map&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
