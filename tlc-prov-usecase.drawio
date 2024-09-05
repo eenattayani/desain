@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="fMkuBY3DzN7pvkopR0qA">
-    <mxGraphModel dx="403" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="226" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,12 +76,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJwC49n2kLytIpeOi1GN-54" value="" style="endArrow=none;dashed=1;html=1;rounded=1;exitX=0.972;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.11;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-2" source="bJwC49n2kLytIpeOi1GN-9" target="bJwC49n2kLytIpeOi1GN-47">
+        <mxCell id="bJwC49n2kLytIpeOi1GN-54" value="" style="endArrow=none;dashed=1;html=1;rounded=1;exitX=0.972;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-2" source="bJwC49n2kLytIpeOi1GN-9" target="bJwC49n2kLytIpeOi1GN-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="232" y="197" as="sourcePoint" />
             <mxPoint x="331" y="208" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="222" y="353" />
+              <mxPoint x="222" y="367" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,13 +95,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-56" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
-          <mxGeometry x="246" y="281" width="60" height="10" as="geometry" />
+          <mxGeometry x="246" y="286" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-57" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
-          <mxGeometry x="220" y="337" width="60" height="10" as="geometry" />
+          <mxGeometry x="220" y="353" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-58" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
-          <mxGeometry x="208" y="412" width="60" height="10" as="geometry" />
+          <mxGeometry x="211" y="415" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-94" value="Web Application&amp;nbsp;&lt;div&gt;Realtime Monitoring and Controlling Traffic Light&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=none;perimeterSpacing=0;strokeWidth=1;spacingTop=1;spacingBottom=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-2">
           <mxGeometry x="101" y="6" width="292" height="30" as="geometry" />
@@ -365,6 +365,106 @@
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-127" value="pilihan?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="1825" y="179" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-134" value="melakukan kontrol traffic light" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="420" width="730" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="bJwC49n2kLytIpeOi1GN-134" source="bJwC49n2kLytIpeOi1GN-139" target="bJwC49n2kLytIpeOi1GN-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-136" value="publik/admin" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-134">
+          <mxGeometry x="20" width="710" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bJwC49n2kLytIpeOi1GN-136" source="bJwC49n2kLytIpeOi1GN-138" target="bJwC49n2kLytIpeOi1GN-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-138" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-136">
+          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-139" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;kunjungi alamat website&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-136">
+          <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-140" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-136">
+          <mxGeometry x="241" y="42" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-141" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;exitPerimeter=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-134" source="bJwC49n2kLytIpeOi1GN-140" target="bJwC49n2kLytIpeOi1GN-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="60" as="sourcePoint" />
+            <mxPoint x="434" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="364" y="62" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-142" value="pilih 1 mesin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="bJwC49n2kLytIpeOi1GN-141">
+          <mxGeometry x="-0.5212" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-134" source="bJwC49n2kLytIpeOi1GN-147" target="bJwC49n2kLytIpeOi1GN-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="179" as="sourcePoint" />
+            <mxPoint x="279" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-144" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=0;exitPerimeter=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-134" source="bJwC49n2kLytIpeOi1GN-140" target="bJwC49n2kLytIpeOi1GN-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="311" y="72" as="sourcePoint" />
+            <mxPoint x="374" y="169" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-145" value="view on map" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="bJwC49n2kLytIpeOi1GN-144">
+          <mxGeometry x="-0.8549" y="1" relative="1" as="geometry">
+            <mxPoint x="66" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-146" value="aplikasi web" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-134">
+          <mxGeometry x="20" y="120" width="710" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-147" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;menampilkan ke dalam&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;tabel kondisi realtime mesin-mesin traffic light&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-146">
+          <mxGeometry x="90" y="41" width="140" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-146" source="bJwC49n2kLytIpeOi1GN-147" target="bJwC49n2kLytIpeOi1GN-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="70" as="targetPoint" />
+            <mxPoint x="340.02" y="80.01999999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="140" />
+              <mxPoint x="680" y="140" />
+              <mxPoint x="680" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-149" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-146">
+          <mxGeometry x="610" y="49" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-150" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;menampilkan kondisi realtime traffic light yang dipilih&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-146">
+          <mxGeometry x="283" y="39" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-151" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;menampilkan semua titik lokasi mesin traffic light ke dalam google Map&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-146">
+          <mxGeometry x="420" y="39" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-152" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-146" source="bJwC49n2kLytIpeOi1GN-150" target="bJwC49n2kLytIpeOi1GN-149">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="110" as="sourcePoint" />
+            <mxPoint x="622.6666259765625" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="344" y="120" />
+              <mxPoint x="630" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.009;exitY=0.561;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.011;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bJwC49n2kLytIpeOi1GN-146" source="bJwC49n2kLytIpeOi1GN-151" target="bJwC49n2kLytIpeOi1GN-149">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="90" as="sourcePoint" />
+            <mxPoint x="630" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-154" value="pilihan?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1815" y="509" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
