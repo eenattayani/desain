@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="fMkuBY3DzN7pvkopR0qA">
-    <mxGraphModel dx="226" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="604" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
             <mxPoint x="630" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJwC49n2kLytIpeOi1GN-93" value="tlc-combo&lt;div&gt;(mesin kontrol traffic light)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bJwC49n2kLytIpeOi1GN-93" value="tlc-combo&lt;div&gt;(mesin TL)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="918" y="338" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-107" value="" style="endArrow=none;html=1;rounded=1;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="bJwC49n2kLytIpeOi1GN-105" target="bJwC49n2kLytIpeOi1GN-93">
@@ -465,6 +465,43 @@
         </mxCell>
         <mxCell id="bJwC49n2kLytIpeOi1GN-154" value="pilihan?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="1815" y="509" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-155" value="kirim data mesin traffic light" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=10;arcSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="750" width="720" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="bJwC49n2kLytIpeOi1GN-155" source="bJwC49n2kLytIpeOi1GN-160" target="bJwC49n2kLytIpeOi1GN-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-157" value="tlc combo&lt;div&gt;(mesin TL)&lt;/div&gt;" style="swimlane;html=1;startSize=36;horizontal=0;verticalAlign=middle;align=center;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-155">
+          <mxGeometry x="20" width="700" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bJwC49n2kLytIpeOi1GN-157" source="bJwC49n2kLytIpeOi1GN-159" target="bJwC49n2kLytIpeOi1GN-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-159" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-157">
+          <mxGeometry x="50" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-160" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;terjadi perubahan kondisi lampu&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;spacingLeft=1;spacingRight=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-157">
+          <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bJwC49n2kLytIpeOi1GN-157" source="bJwC49n2kLytIpeOi1GN-160" target="bJwC49n2kLytIpeOi1GN-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="59.72" as="sourcePoint" />
+            <mxPoint x="290" y="59.72" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-178" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;kirim kode perubahan kode ke web&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;spacingLeft=1;spacingRight=1;spacing=2;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-157">
+          <mxGeometry x="260" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-167" value="aplikasi web" style="swimlane;html=1;startSize=36;horizontal=0;verticalAlign=middle;align=center;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-155">
+          <mxGeometry x="20" y="120" width="700" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-168" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;menampilkan ke dalam&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;tabel kondisi realtime mesin-mesin traffic light&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-167">
+          <mxGeometry x="90" y="41" width="140" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="bJwC49n2kLytIpeOi1GN-170" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bJwC49n2kLytIpeOi1GN-167">
+          <mxGeometry x="610" y="49" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
