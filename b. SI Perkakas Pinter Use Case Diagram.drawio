@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="7mcct_nMjgWPXreTealT">
-    <mxGraphModel dx="2345" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3225" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vww5mRkP5KJjSzzlBmqT-21" value="kelola info&lt;div&gt;beranda&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vww5mRkP5KJjSzzlBmqT-21" value="kelola info&lt;div&gt;beranda&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="335" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-22" value="" style="endArrow=none;html=1;rounded=1;entryX=0.096;entryY=0.766;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="vww5mRkP5KJjSzzlBmqT-1" target="vww5mRkP5KJjSzzlBmqT-9" edge="1">
@@ -127,7 +127,7 @@
         <mxCell id="vww5mRkP5KJjSzzlBmqT-31" value="update kondisi&amp;nbsp;&lt;div&gt;terkini kebun&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358" y="1015" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vww5mRkP5KJjSzzlBmqT-33" value="akses info&amp;nbsp;&lt;div&gt;UPT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vww5mRkP5KJjSzzlBmqT-33" value="akses info&amp;nbsp;&lt;div&gt;UPT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="345" y="675" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-34" value="" style="endArrow=none;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="vww5mRkP5KJjSzzlBmqT-10" target="vww5mRkP5KJjSzzlBmqT-33" edge="1">
@@ -220,7 +220,7 @@
         <mxCell id="vww5mRkP5KJjSzzlBmqT-47" value="SI PERKAKAS PINTER" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#C491E6;width=160;height=30;" parent="1" vertex="1">
           <mxGeometry x="180" y="-70" width="480" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="vww5mRkP5KJjSzzlBmqT-48" value="permintaan layanan&lt;div&gt;UPT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="vww5mRkP5KJjSzzlBmqT-48" value="permintaan layanan&lt;div&gt;UPT&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="343" y="741" width="127.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vww5mRkP5KJjSzzlBmqT-50" value="" style="endArrow=none;html=1;rounded=1;curved=0;" parent="1" source="vww5mRkP5KJjSzzlBmqT-10" target="vww5mRkP5KJjSzzlBmqT-48" edge="1">
@@ -932,7 +932,7 @@
         <mxCell id="P7iKJWBIdshpI6L1AGiM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="P7iKJWBIdshpI6L1AGiM-1" source="P7iKJWBIdshpI6L1AGiM-33" target="P7iKJWBIdshpI6L1AGiM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P7iKJWBIdshpI6L1AGiM-30" value="kelola permintaan&lt;div&gt;pelayanan&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P7iKJWBIdshpI6L1AGiM-30" value="kelola permintaan&lt;div&gt;pelayanan&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="338" y="570" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P7iKJWBIdshpI6L1AGiM-31" value="" style="endArrow=none;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vww5mRkP5KJjSzzlBmqT-1" target="P7iKJWBIdshpI6L1AGiM-30">
