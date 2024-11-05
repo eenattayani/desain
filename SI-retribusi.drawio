@@ -487,7 +487,7 @@
         <mxCell id="zzdOkMJyCF90BAqHjT8_-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;rekapan tahunan&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;" vertex="1" parent="ZjEGa7sTNImFNYMbBXR6-3">
           <mxGeometry x="676" y="99" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cabN3YggVSz9ZFgIlcv0-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih menu lihat rekapan data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="ZjEGa7sTNImFNYMbBXR6-3">
+        <mxCell id="cabN3YggVSz9ZFgIlcv0-4" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih menu rekapan data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="ZjEGa7sTNImFNYMbBXR6-3">
           <mxGeometry x="320" y="31" width="100" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ZjEGa7sTNImFNYMbBXR6-17" value="SI RetPo" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZjEGa7sTNImFNYMbBXR6-1">
