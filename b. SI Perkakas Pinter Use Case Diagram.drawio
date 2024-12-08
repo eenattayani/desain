@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="2">
   <diagram name="BPMN" id="7mcct_nMjgWPXreTealT">
-    <mxGraphModel dx="1400" dy="2473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1383,13 +1383,22 @@
         <mxCell id="TKYzaeQILUvnWykv_Qs1-31" value="simpan data" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;fontSize=10;" parent="TKYzaeQILUvnWykv_Qs1-16" vertex="1">
           <mxGeometry x="1040" y="75" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="deKHrb3gZZN3QCeN1tix-3" value="kelola data produsen/pengedar" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="1200" width="920" height="300" as="geometry" />
+        <mxCell id="deKHrb3gZZN3QCeN1tix-3" value="kelola sebaran varietas" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1540" width="920" height="300" as="geometry" />
         </mxCell>
         <mxCell id="deKHrb3gZZN3QCeN1tix-4" value="admin kebun" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="deKHrb3gZZN3QCeN1tix-3">
           <mxGeometry x="20" width="900" height="110" as="geometry" />
         </mxCell>
         <mxCell id="deKHrb3gZZN3QCeN1tix-10" value="siperkakaspinter" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="deKHrb3gZZN3QCeN1tix-3">
+          <mxGeometry x="20" y="110" width="900" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="deKHrb3gZZN3QCeN1tix-39" value="kelola data produsen/pengedar" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1210" width="920" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="deKHrb3gZZN3QCeN1tix-40" value="admin kebun" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="deKHrb3gZZN3QCeN1tix-39">
+          <mxGeometry x="20" width="900" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="deKHrb3gZZN3QCeN1tix-41" value="siperkakaspinter" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="deKHrb3gZZN3QCeN1tix-39">
           <mxGeometry x="20" y="110" width="900" height="190" as="geometry" />
         </mxCell>
       </root>
