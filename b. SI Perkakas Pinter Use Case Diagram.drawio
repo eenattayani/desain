@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="2">
   <diagram name="BPMN" id="7mcct_nMjgWPXreTealT">
-    <mxGraphModel dx="1122" dy="2204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1229" dy="2252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1149,6 +1149,9 @@
         <mxCell id="dGZuh8LPP8aU2jCBLl5m-35" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" parent="dGZuh8LPP8aU2jCBLl5m-9" vertex="1">
           <mxGeometry x="805" y="65" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="deKHrb3gZZN3QCeN1tix-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dGZuh8LPP8aU2jCBLl5m-9" source="dGZuh8LPP8aU2jCBLl5m-42" target="TKYzaeQILUvnWykv_Qs1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dGZuh8LPP8aU2jCBLl5m-42" value="tambah&amp;nbsp;&lt;div&gt;stok benih&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;fontSize=10;" parent="dGZuh8LPP8aU2jCBLl5m-9" vertex="1">
           <mxGeometry x="900" y="75" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1157,6 +1160,9 @@
         </mxCell>
         <mxCell id="dGZuh8LPP8aU2jCBLl5m-48" value="keterangan hasil validasi" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;fontSize=10;" parent="dGZuh8LPP8aU2jCBLl5m-9" vertex="1">
           <mxGeometry x="100" y="75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="deKHrb3gZZN3QCeN1tix-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="dGZuh8LPP8aU2jCBLl5m-9" source="TKYzaeQILUvnWykv_Qs1-34" target="dGZuh8LPP8aU2jCBLl5m-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TKYzaeQILUvnWykv_Qs1-34" value="simpan data" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;fontSize=10;" parent="dGZuh8LPP8aU2jCBLl5m-9" vertex="1">
           <mxGeometry x="1020" y="75" width="80" height="40" as="geometry" />
