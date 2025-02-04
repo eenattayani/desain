@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6" pages="3">
   <diagram name="use case" id="ukxG8gzlgrs9HhvgwXRx">
-    <mxGraphModel dx="767" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,6 +31,13 @@
             <Array as="points">
               <mxPoint x="250" y="260" />
               <mxPoint x="360" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrQLkKAdtE5SOXrFSm7I-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="dq5n2X-4svsOP9GwLVwc-3" target="LrQLkKAdtE5SOXrFSm7I-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="17" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -304,10 +311,20 @@
           <mxGeometry x="350" y="153" width="60" height="27" as="geometry" />
         </mxCell>
         <mxCell id="eTvObXC_AzbHseTv6Wr1-1" value="mengelola&amp;nbsp;&lt;div&gt;data&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;parameter&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0000FF;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="30" width="120" height="50" as="geometry" />
+          <mxGeometry x="211" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eTvObXC_AzbHseTv6Wr1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="dq5n2X-4svsOP9GwLVwc-3" target="eTvObXC_AzbHseTv6Wr1-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LrQLkKAdtE5SOXrFSm7I-1" value="mengakses halaman beranda" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0000FF;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LrQLkKAdtE5SOXrFSm7I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="dq5n2X-4svsOP9GwLVwc-5" target="LrQLkKAdtE5SOXrFSm7I-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="679" y="31" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -935,7 +952,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XipibpEEx1TU_LfJ5yZp" name="bpmn-revisi">
-    <mxGraphModel dx="1594" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
