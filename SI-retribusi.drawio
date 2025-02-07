@@ -2019,21 +2019,21 @@
           <mxGeometry x="20" width="720" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GSqsw2JHK0qj4qX0ioWV-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;melakukan&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;login&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GSqsw2JHK0qj4qX0ioWV-2">
-          <mxGeometry x="140" y="51" width="70" height="40" as="geometry" />
+          <mxGeometry x="140" y="50" width="70" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GSqsw2JHK0qj4qX0ioWV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GSqsw2JHK0qj4qX0ioWV-2" source="GSqsw2JHK0qj4qX0ioWV-5" target="GSqsw2JHK0qj4qX0ioWV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GSqsw2JHK0qj4qX0ioWV-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih menu&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;laporan&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GSqsw2JHK0qj4qX0ioWV-2">
-          <mxGeometry x="251" y="41" width="100" height="60" as="geometry" />
+          <mxGeometry x="251" y="40" width="100" height="62" as="geometry" />
         </mxCell>
         <mxCell id="GSqsw2JHK0qj4qX0ioWV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GSqsw2JHK0qj4qX0ioWV-2" source="GSqsw2JHK0qj4qX0ioWV-3" target="GSqsw2JHK0qj4qX0ioWV-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="301" y="71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSqsw2JHK0qj4qX0ioWV-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;pilih&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;jenis permohonan&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="GSqsw2JHK0qj4qX0ioWV-2">
-          <mxGeometry x="399" y="41" width="110" height="60" as="geometry" />
+        <mxCell id="GSqsw2JHK0qj4qX0ioWV-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;pilih&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;data yang dibutuhkan&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="GSqsw2JHK0qj4qX0ioWV-2">
+          <mxGeometry x="397" y="41" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GSqsw2JHK0qj4qX0ioWV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GSqsw2JHK0qj4qX0ioWV-2" source="GSqsw2JHK0qj4qX0ioWV-9" target="GSqsw2JHK0qj4qX0ioWV-3">
           <mxGeometry relative="1" as="geometry" />
@@ -2055,8 +2055,8 @@
             <mxPoint x="650" y="69.99999999999977" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GSqsw2JHK0qj4qX0ioWV-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;menampilkan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;list data berdasarkan&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;jenis permohonan&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GSqsw2JHK0qj4qX0ioWV-11">
-          <mxGeometry x="480" y="40" width="120" height="50" as="geometry" />
+        <mxCell id="GSqsw2JHK0qj4qX0ioWV-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;mengekspor data ke dalam format excel (.xlsx)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GSqsw2JHK0qj4qX0ioWV-11">
+          <mxGeometry x="470" y="40" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
