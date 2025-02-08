@@ -953,7 +953,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XipibpEEx1TU_LfJ5yZp" name="bpmn-revisi">
-    <mxGraphModel dx="797" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2151,7 +2151,7 @@
         <mxCell id="ZI0JU6BG7UxEQYASkTvH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f7SAif04Hjsf0IT5nQB9-16" source="ZI0JU6BG7UxEQYASkTvH-2" target="f7SAif04Hjsf0IT5nQB9-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZI0JU6BG7UxEQYASkTvH-2" value="menampilkan data jumlah pemohon dan jumlah retribusi dalam bentuk tabel dan &lt;i&gt;pie diagram&lt;/i&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;" vertex="1" parent="f7SAif04Hjsf0IT5nQB9-16">
+        <mxCell id="ZI0JU6BG7UxEQYASkTvH-2" value="menampilkan data jumlah pemohon dan jumlah retribusi dalam bentuk tabel dan &lt;i&gt;pie diagram&lt;/i&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=1;fontSize=10;" vertex="1" parent="f7SAif04Hjsf0IT5nQB9-16">
           <mxGeometry x="390" y="20" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="f7SAif04Hjsf0IT5nQB9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="f7SAif04Hjsf0IT5nQB9-1" source="f7SAif04Hjsf0IT5nQB9-8" target="f7SAif04Hjsf0IT5nQB9-5">
