@@ -394,7 +394,7 @@
           <mxGeometry x="11" y="857" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5ajgeIfDHQq1K-wCDpJ-1" value="" style="swimlane;startSize=0;fillColor=#fff2cc;strokeColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="1312" y="222" width="642" height="597" as="geometry">
+          <mxGeometry x="1312" y="222" width="642" height="530" as="geometry">
             <mxRectangle x="180" y="160" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
