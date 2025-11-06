@@ -468,7 +468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9JCWCYODl5NkUO9uBDGQ" name="BPMN">
-    <mxGraphModel dx="-89" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="435" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -816,38 +816,33 @@
         <mxCell id="GAlieU1wdx3YA21tafX4-15" value="melakukan tindak lanjut" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GAlieU1wdx3YA21tafX4-2">
           <mxGeometry x="460" y="37" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GAlieU1wdx3YA21tafX4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;curved=0;" edge="1" parent="GAlieU1wdx3YA21tafX4-2" source="GAlieU1wdx3YA21tafX4-16" target="GAlieU1wdx3YA21tafX4-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="34" />
-              <mxPoint x="750" y="34" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GAlieU1wdx3YA21tafX4-28" value="masuk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GAlieU1wdx3YA21tafX4-20">
-          <mxGeometry x="-0.0378" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GAlieU1wdx3YA21tafX4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GAlieU1wdx3YA21tafX4-2" source="GAlieU1wdx3YA21tafX4-16" target="GAlieU1wdx3YA21tafX4-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GAlieU1wdx3YA21tafX4-29" value="ditangani" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GAlieU1wdx3YA21tafX4-21">
+        <mxCell id="GAlieU1wdx3YA21tafX4-29" value="ditangani" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontStyle=2" vertex="1" connectable="0" parent="GAlieU1wdx3YA21tafX4-21">
           <mxGeometry x="-0.2109" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GAlieU1wdx3YA21tafX4-16" value="status" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GAlieU1wdx3YA21tafX4-2">
-          <mxGeometry x="610" y="27" width="80" height="80" as="geometry" />
+          <mxGeometry x="611" y="27" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GAlieU1wdx3YA21tafX4-17" value="pilih&amp;nbsp;&lt;div&gt;&#39;tangani laporan&#39;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GAlieU1wdx3YA21tafX4-2">
-          <mxGeometry x="810" y="18.5" width="96" height="30" as="geometry" />
+        <mxCell id="GAlieU1wdx3YA21tafX4-17" value="pilih&amp;nbsp;&lt;div&gt;&#39;&lt;b&gt;tangani laporan&lt;/b&gt;&#39;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GAlieU1wdx3YA21tafX4-2">
+          <mxGeometry x="810" y="10" width="96" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="GAlieU1wdx3YA21tafX4-18" value="pilih&amp;nbsp;&lt;div&gt;&#39;selesai&#39;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GAlieU1wdx3YA21tafX4-2">
-          <mxGeometry x="810" y="71.5" width="96" height="30" as="geometry" />
+        <mxCell id="GAlieU1wdx3YA21tafX4-18" value="pilih&amp;nbsp;&lt;div&gt;&#39;&lt;b&gt;selesai&lt;/b&gt;&#39;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="GAlieU1wdx3YA21tafX4-2">
+          <mxGeometry x="810" y="70" width="96" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="GAlieU1wdx3YA21tafX4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.063;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GAlieU1wdx3YA21tafX4-2" source="GAlieU1wdx3YA21tafX4-15" target="GAlieU1wdx3YA21tafX4-16">
+        <mxCell id="GAlieU1wdx3YA21tafX4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="GAlieU1wdx3YA21tafX4-2" source="GAlieU1wdx3YA21tafX4-15" target="GAlieU1wdx3YA21tafX4-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAlieU1wdx3YA21tafX4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.004;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="GAlieU1wdx3YA21tafX4-2" source="GAlieU1wdx3YA21tafX4-16" target="GAlieU1wdx3YA21tafX4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GAlieU1wdx3YA21tafX4-32" value="masuk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontStyle=2" vertex="1" connectable="0" parent="GAlieU1wdx3YA21tafX4-31">
+          <mxGeometry x="-0.3878" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GAlieU1wdx3YA21tafX4-9" value="aplikasi web" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="GAlieU1wdx3YA21tafX4-1">
           <mxGeometry x="20" y="120" width="1110" height="130" as="geometry" />
