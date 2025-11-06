@@ -72,14 +72,8 @@
         <mxCell id="0n8NTB7430LXSi7P81P0-4" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="0n8NTB7430LXSi7P81P0-2">
           <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0n8NTB7430LXSi7P81P0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0n8NTB7430LXSi7P81P0-2" source="0n8NTB7430LXSi7P81P0-6" target="0n8NTB7430LXSi7P81P0-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0n8NTB7430LXSi7P81P0-6" value="deteksi sensor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="0n8NTB7430LXSi7P81P0-2">
-          <mxGeometry x="117" y="37" width="86" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="0n8NTB7430LXSi7P81P0-7" value="masukkan kode laporan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="0n8NTB7430LXSi7P81P0-2">
-          <mxGeometry x="252" y="32" width="80" height="56" as="geometry" />
+          <mxGeometry x="110" y="37" width="86" height="46" as="geometry" />
         </mxCell>
         <mxCell id="0n8NTB7430LXSi7P81P0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0n8NTB7430LXSi7P81P0-2">
           <mxGeometry relative="1" as="geometry">
@@ -98,10 +92,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0n8NTB7430LXSi7P81P0-12" value="menampilkan detail laporan pengaduan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="0n8NTB7430LXSi7P81P0-9">
-          <mxGeometry x="326" y="44" width="96" height="60" as="geometry" />
+          <mxGeometry x="360" y="44" width="96" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0n8NTB7430LXSi7P81P0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="0n8NTB7430LXSi7P81P0-1" source="0n8NTB7430LXSi7P81P0-7" target="0n8NTB7430LXSi7P81P0-12">
+        <mxCell id="0n8NTB7430LXSi7P81P0-7" value="masukkan kode laporan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="0n8NTB7430LXSi7P81P0-9">
+          <mxGeometry x="230" y="44" width="80" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="0n8NTB7430LXSi7P81P0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="0n8NTB7430LXSi7P81P0-9" source="0n8NTB7430LXSi7P81P0-7" target="0n8NTB7430LXSi7P81P0-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w166hkgyAb2MfIz7IWAN-1" value="sensor&amp;nbsp;&lt;div&gt;ada?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="0n8NTB7430LXSi7P81P0-9">
+          <mxGeometry x="110" y="25" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0n8NTB7430LXSi7P81P0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0n8NTB7430LXSi7P81P0-1">
           <mxGeometry relative="1" as="geometry">
