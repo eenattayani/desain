@@ -742,7 +742,7 @@
         <mxCell id="J9-7LcMF0yVg6XjOz_74-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="strqrAIwxzEx6qMzG8qm-26" source="GAlieU1wdx3YA21tafX4-33" target="strqrAIwxzEx6qMzG8qm-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GAlieU1wdx3YA21tafX4-33" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;mengirim pesan&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;WA ke Pelapor&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="strqrAIwxzEx6qMzG8qm-26" vertex="1">
+        <mxCell id="GAlieU1wdx3YA21tafX4-33" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;mengirim &lt;b&gt;pesan&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;WA &lt;/b&gt;dan &lt;b&gt;kode laporan&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ke Pelapor&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="strqrAIwxzEx6qMzG8qm-26" vertex="1">
           <mxGeometry x="1037" y="40" width="116" height="69" as="geometry" />
         </mxCell>
         <mxCell id="strqrAIwxzEx6qMzG8qm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="strqrAIwxzEx6qMzG8qm-1" source="strqrAIwxzEx6qMzG8qm-25" target="strqrAIwxzEx6qMzG8qm-27" edge="1">
