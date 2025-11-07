@@ -41,7 +41,7 @@
           <mxGeometry x="300" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-11" value="akses halaman monitoring" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FBKHyF6MPTFxCOZm0X5K-3">
-          <mxGeometry x="92" y="145" width="120" height="50" as="geometry" />
+          <mxGeometry x="56" y="145" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;endArrow=none;endFill=0;" edge="1" parent="FBKHyF6MPTFxCOZm0X5K-3" source="FBKHyF6MPTFxCOZm0X5K-19" target="FBKHyF6MPTFxCOZm0X5K-11">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Gp8Omoj3ld8D_sAHbVwe" name="BPMN">
-    <mxGraphModel dx="1582" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1082" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sXcrJiD1gaoHEbUR9I1t-6" value="mencocokkan SSID dan password" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="sXcrJiD1gaoHEbUR9I1t-2">
-          <mxGeometry x="110" y="78" width="86" height="46" as="geometry" />
+          <mxGeometry x="106" y="78" width="94" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sXcrJiD1gaoHEbUR9I1t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sXcrJiD1gaoHEbUR9I1t-2">
           <mxGeometry relative="1" as="geometry">
