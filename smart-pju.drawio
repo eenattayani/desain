@@ -468,7 +468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9JCWCYODl5NkUO9uBDGQ" name="BPMN">
-    <mxGraphModel dx="7" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-28" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -797,6 +797,9 @@
         <mxCell id="1njFij0_0pK_4iBveTeU-18" value="menampilkan detail laporan pengaduan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1njFij0_0pK_4iBveTeU-12" vertex="1">
           <mxGeometry x="290" y="64" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZpAmN1wspdjedgKznmZ3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1njFij0_0pK_4iBveTeU-12" source="SEHQDXFrQw_uU9FGMpeu-1" target="1njFij0_0pK_4iBveTeU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SEHQDXFrQw_uU9FGMpeu-1" value="menampilkan detail laporan pengaduan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1njFij0_0pK_4iBveTeU-12">
           <mxGeometry x="641" y="11" width="129" height="50" as="geometry" />
         </mxCell>
@@ -835,10 +838,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SEHQDXFrQw_uU9FGMpeu-2" value="status" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1njFij0_0pK_4iBveTeU-12">
-          <mxGeometry x="457" y="61" width="70" height="66" as="geometry" />
+          <mxGeometry x="453" y="61" width="70" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpAmN1wspdjedgKznmZ3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1njFij0_0pK_4iBveTeU-12" source="SEHQDXFrQw_uU9FGMpeu-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970.0000000000002" y="94" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SEHQDXFrQw_uU9FGMpeu-3" value="menampilkan detail laporan ditangani" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1njFij0_0pK_4iBveTeU-12">
           <mxGeometry x="641" y="69" width="129" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpAmN1wspdjedgKznmZ3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1njFij0_0pK_4iBveTeU-12" source="SEHQDXFrQw_uU9FGMpeu-4" target="1njFij0_0pK_4iBveTeU-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="155" />
+              <mxPoint x="870" y="94" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SEHQDXFrQw_uU9FGMpeu-4" value="menampilkan detail laporan yang selesai" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1njFij0_0pK_4iBveTeU-12">
           <mxGeometry x="641" y="130" width="129" height="50" as="geometry" />
