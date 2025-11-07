@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-3" value="" style="swimlane;startSize=0;fillColor=#fff2cc;strokeColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="420" y="410" width="530" height="440" as="geometry">
+          <mxGeometry x="420" y="450" width="530" height="360" as="geometry">
             <mxRectangle x="180" y="160" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -16,29 +16,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-5" value="Wemos" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="FBKHyF6MPTFxCOZm0X5K-3">
-          <mxGeometry x="593" y="230" width="30" height="60" as="geometry" />
+          <mxGeometry x="593" y="175" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-6" value="" style="endArrow=none;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" edge="1" parent="FBKHyF6MPTFxCOZm0X5K-3" source="FBKHyF6MPTFxCOZm0X5K-10" target="FBKHyF6MPTFxCOZm0X5K-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="485" y="172" as="sourcePoint" />
-            <mxPoint x="435" y="302" as="targetPoint" />
+            <mxPoint x="485" y="117" as="sourcePoint" />
+            <mxPoint x="435" y="247" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="608" y="172" />
+              <mxPoint x="608" y="117" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-7" value="" style="endArrow=none;html=1;rounded=1;curved=0;entryX=0.218;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FBKHyF6MPTFxCOZm0X5K-3" source="FBKHyF6MPTFxCOZm0X5K-9" target="FBKHyF6MPTFxCOZm0X5K-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489" y="244" as="sourcePoint" />
-            <mxPoint x="585" y="244" as="targetPoint" />
+            <mxPoint x="489" y="189" as="sourcePoint" />
+            <mxPoint x="585" y="189" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-9" value="menghubungkan ke Access Point" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FBKHyF6MPTFxCOZm0X5K-3">
-          <mxGeometry x="300" y="217" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="162" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-10" value="membaca data sensor INA219" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FBKHyF6MPTFxCOZm0X5K-3">
-          <mxGeometry x="300" y="145" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-11" value="akses halaman monitoring" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FBKHyF6MPTFxCOZm0X5K-3">
           <mxGeometry x="92" y="145" width="120" height="50" as="geometry" />
@@ -50,13 +50,13 @@
           <mxGeometry x="-49" y="140" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FBKHyF6MPTFxCOZm0X5K-22" value="mengirim data ke server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="FBKHyF6MPTFxCOZm0X5K-3">
-          <mxGeometry x="300" y="307" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="252" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Gp8Omoj3ld8D_sAHbVwe" name="BPMN">
-    <mxGraphModel dx="1082" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
