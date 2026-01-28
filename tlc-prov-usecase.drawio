@@ -732,12 +732,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LiM-Flcm5VRxRBG-c5Am" name="tlc-ptk-new">
-    <mxGraphModel dx="663" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k1KKAy6bddfr3pi_tO6z-44" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="680" width="980" x="110" y="100" as="geometry" />
+          <mxGeometry height="680" width="980" x="100" y="100" as="geometry" />
         </mxCell>
         <mxCell id="k1KKAy6bddfr3pi_tO6z-1" parent="k1KKAy6bddfr3pi_tO6z-44" style="swimlane;startSize=0;fillColor=#fff2cc;strokeColor=#33001A;" value="" vertex="1">
           <mxGeometry height="680" width="620" x="120" as="geometry">
@@ -993,6 +993,9 @@
             <mxPoint x="26" y="603" as="sourcePoint" />
             <mxPoint x="216" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QVpS0vowvneIN7ofjMQL-8" parent="k1KKAy6bddfr3pi_tO6z-44" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="robot telegram" vertex="1">
+          <mxGeometry height="60" width="30" x="808" y="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
