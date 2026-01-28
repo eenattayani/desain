@@ -732,7 +732,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LiM-Flcm5VRxRBG-c5Am" name="tlc-ptk-new">
-    <mxGraphModel dx="1713" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -752,6 +752,16 @@
         </mxCell>
         <mxCell id="k1KKAy6bddfr3pi_tO6z-3" parent="k1KKAy6bddfr3pi_tO6z-1" style="ellipse;whiteSpace=wrap;html=1;" value="login" vertex="1">
           <mxGeometry height="50" width="120" x="30" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="QVpS0vowvneIN7ofjMQL-6" edge="1" parent="k1KKAy6bddfr3pi_tO6z-1" source="k1KKAy6bddfr3pi_tO6z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.783;exitY=0.895;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;exitPerimeter=0;" target="QVpS0vowvneIN7ofjMQL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="317" />
+              <mxPoint x="200" y="540" />
+              <mxPoint x="260" y="540" />
+              <mxPoint x="260" y="585" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="k1KKAy6bddfr3pi_tO6z-4" parent="k1KKAy6bddfr3pi_tO6z-1" style="ellipse;whiteSpace=wrap;html=1;" value="melakukan kontrol&lt;div&gt;traffic light&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="105" y="272" as="geometry" />
@@ -885,6 +895,12 @@
         </mxCell>
         <mxCell id="QVpS0vowvneIN7ofjMQL-4" parent="k1KKAy6bddfr3pi_tO6z-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry height="10" width="60" x="86" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="QVpS0vowvneIN7ofjMQL-5" parent="k1KKAy6bddfr3pi_tO6z-1" style="ellipse;whiteSpace=wrap;html=1;" value="monitoring&amp;nbsp;&lt;div&gt;kapasitas baterai&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="319" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="QVpS0vowvneIN7ofjMQL-7" parent="k1KKAy6bddfr3pi_tO6z-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="10" width="60" x="200" y="527" as="geometry" />
         </mxCell>
         <mxCell id="k1KKAy6bddfr3pi_tO6z-30" parent="k1KKAy6bddfr3pi_tO6z-44" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="admin" vertex="1">
           <mxGeometry height="60" width="30" y="272" as="geometry" />
