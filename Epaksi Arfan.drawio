@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Page-1" id="i_sEinz1GNJ3AERWtok9">
-    <mxGraphModel dx="2284" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="KJQFdUA5ROIy3s7NIpu4-93" edge="1" parent="KJQFdUA5ROIy3s7NIpu4-1" source="KJQFdUA5ROIy3s7NIpu4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;endArrow=none;endFill=0;exitX=0.948;exitY=0.795;exitDx=0;exitDy=0;exitPerimeter=0;" target="KJQFdUA5ROIy3s7NIpu4-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KJQFdUA5ROIy3s7NIpu4-86" parent="KJQFdUA5ROIy3s7NIpu4-1" style="ellipse;whiteSpace=wrap;html=1;" value="kelola&lt;div&gt;data epaksi&lt;/div&gt;" vertex="1">
+        <mxCell id="KJQFdUA5ROIy3s7NIpu4-86" parent="KJQFdUA5ROIy3s7NIpu4-1" style="ellipse;whiteSpace=wrap;html=1;" value="kelola&lt;div&gt;data proyek&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="111.5" y="330" as="geometry" />
         </mxCell>
         <mxCell id="KJQFdUA5ROIy3s7NIpu4-88" parent="KJQFdUA5ROIy3s7NIpu4-1" style="ellipse;whiteSpace=wrap;html=1;" value="menambahkan data" vertex="1">
