@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iqxNiG0RCANr4j4huH72" name="BPMN">
-    <mxGraphModel dx="447" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1469" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,7 +357,7 @@
           <mxGeometry height="46" width="86" x="117" y="37" as="geometry" />
         </mxCell>
         <mxCell id="HmDPqfb4GejmHxa2NlBH-7" parent="HmDPqfb4GejmHxa2NlBH-3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih aksi&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="64.62" x="255.38" y="40" as="geometry" />
+          <mxGeometry height="40" width="64.62" x="264.38" y="40" as="geometry" />
         </mxCell>
         <mxCell id="HmDPqfb4GejmHxa2NlBH-15" parent="HmDPqfb4GejmHxa2NlBH-3" style="rhombus;whiteSpace=wrap;html=1;" value="aksi" vertex="1">
           <mxGeometry height="70" width="74" x="370" y="25" as="geometry" />
