@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KJQFdUA5ROIy3s7NIpu4-1" parent="1" style="swimlane;startSize=0;fillColor=#fff2cc;strokeColor=#0000FF;" value="" vertex="1">
-          <mxGeometry height="770" width="481" x="509" y="130" as="geometry">
+          <mxGeometry height="630" width="481" x="509" y="130" as="geometry">
             <mxRectangle height="40" width="50" x="180" y="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
