@@ -415,7 +415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a7ePXy2SVSDGw4Hc5kXJ" name="BPMN">
-    <mxGraphModel dx="822" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,14 +534,14 @@
         <mxCell id="DeplpGHFqKLxMNDFJi2L-25" parent="DeplpGHFqKLxMNDFJi2L-3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;perangkat kontrol&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;SUL_WEST_02&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="90.5" x="429.5" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-17" parent="DeplpGHFqKLxMNDFJi2L-3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih &lt;b&gt;start&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="29" width="81" x="780" y="11" as="geometry" />
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-68" edge="1" parent="DeplpGHFqKLxMNDFJi2L-3" source="DeplpGHFqKLxMNDFJi2L-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DeplpGHFqKLxMNDFJi2L-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-54" parent="DeplpGHFqKLxMNDFJi2L-3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih &lt;b&gt;pause&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="29" width="81" x="780" y="50.5" as="geometry" />
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-65" parent="DeplpGHFqKLxMNDFJi2L-3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;input&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;nama kapal&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="41" width="89" x="601" y="49" as="geometry" />
         </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-55" parent="DeplpGHFqKLxMNDFJi2L-3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih &lt;b&gt;stop&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="29" width="81" x="780" y="90" as="geometry" />
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-67" parent="DeplpGHFqKLxMNDFJi2L-3" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;pilih&amp;nbsp;&lt;/div&gt;&lt;div&gt;mode kontrol&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="79.5" width="90" x="730" y="29.75" as="geometry" />
         </mxCell>
         <mxCell id="DeplpGHFqKLxMNDFJi2L-10" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-7">
           <mxGeometry relative="1" as="geometry">
@@ -557,20 +557,58 @@
         <mxCell id="DeplpGHFqKLxMNDFJi2L-12" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;menampilkan halaman dashboard&lt;/span&gt;" vertex="1">
           <mxGeometry height="65" width="95" x="112" y="46" as="geometry" />
         </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-56" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DeplpGHFqKLxMNDFJi2L-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DeplpGHFqKLxMNDFJi2L-22" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;menampilkan halaman kontrol perangkat&lt;/span&gt;" vertex="1">
           <mxGeometry height="65" width="111" x="480" y="46" as="geometry" />
         </mxCell>
         <mxCell id="DeplpGHFqKLxMNDFJi2L-13" parent="DeplpGHFqKLxMNDFJi2L-11" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontStyle=1" value="end" vertex="1">
-          <mxGeometry height="40" width="40" x="1201" y="71" as="geometry" />
+          <mxGeometry height="40" width="40" x="1201" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-17" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih &lt;b&gt;start&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29" width="81" x="883" y="-119" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-54" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih &lt;b&gt;pause&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29" width="81" x="883" y="-79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-55" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;pilih &lt;b&gt;stop&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29" width="81" x="883" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="DeplpGHFqKLxMNDFJi2L-8" parent="DeplpGHFqKLxMNDFJi2L-11" style="rhombus;whiteSpace=wrap;html=1;" value="cek&amp;nbsp;&lt;div&gt;perangkat&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;on&lt;/b&gt;? &amp;amp; &lt;b&gt;stop&lt;/b&gt;?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="110" x="630" y="28.5" as="geometry" />
+          <mxGeometry height="100" width="110" x="700" y="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-71" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.254;entryDx=0;entryDy=0;curved=0;entryPerimeter=0;" target="DeplpGHFqKLxMNDFJi2L-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DeplpGHFqKLxMNDFJi2L-60" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;kirim perintah ke perangkat&lt;/span&gt;" vertex="1">
-          <mxGeometry height="42.5" width="111" x="880" y="68.5" as="geometry" />
+          <mxGeometry height="42.5" width="111" x="1000" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-61" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="-65" />
+              <mxPoint x="1030" y="40" />
+            </Array>
+            <mxPoint x="1030" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-62" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1063" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-63" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-70" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.039;entryY=0.732;entryDx=0;entryDy=0;curved=0;entryPerimeter=0;" target="DeplpGHFqKLxMNDFJi2L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-69" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;unduh&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;file excel&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42.5" width="77" x="1017" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-73" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DeplpGHFqKLxMNDFJi2L-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-72" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;kirim perintah&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;stop&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42.5" width="73" x="887" y="111" as="geometry" />
         </mxCell>
         <mxCell id="DeplpGHFqKLxMNDFJi2L-29" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.383;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="DeplpGHFqKLxMNDFJi2L-22">
           <mxGeometry relative="1" as="geometry">
@@ -580,31 +618,7 @@
         <mxCell id="DeplpGHFqKLxMNDFJi2L-30" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-57" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-58" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="DeplpGHFqKLxMNDFJi2L-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="732" y="65" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-59" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="780" y="209" />
-              <mxPoint x="780" y="105" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-61" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-62" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-63" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=0;" target="DeplpGHFqKLxMNDFJi2L-60">
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-66" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="DeplpGHFqKLxMNDFJi2L-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
