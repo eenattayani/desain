@@ -607,8 +607,8 @@
         <mxCell id="DeplpGHFqKLxMNDFJi2L-73" edge="1" parent="DeplpGHFqKLxMNDFJi2L-11" source="DeplpGHFqKLxMNDFJi2L-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DeplpGHFqKLxMNDFJi2L-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DeplpGHFqKLxMNDFJi2L-72" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;kirim perintah&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;stop&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="42.5" width="73" x="887" y="111" as="geometry" />
+        <mxCell id="DeplpGHFqKLxMNDFJi2L-72" parent="DeplpGHFqKLxMNDFJi2L-11" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;kirim perintah&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;stop&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;ke perangkat&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55.5" width="87" x="880" y="104.5" as="geometry" />
         </mxCell>
         <mxCell id="DeplpGHFqKLxMNDFJi2L-29" edge="1" parent="DeplpGHFqKLxMNDFJi2L-1" source="DeplpGHFqKLxMNDFJi2L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.383;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="DeplpGHFqKLxMNDFJi2L-22">
           <mxGeometry relative="1" as="geometry">
